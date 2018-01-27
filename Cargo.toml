@@ -1,0 +1,7 @@
+[package]
+name = "future-learn"
+version = "0.1.0"
+authors = ["laizy <aochyi@126.com>"]
+
+[dependencies]
+futures = "0.1"
